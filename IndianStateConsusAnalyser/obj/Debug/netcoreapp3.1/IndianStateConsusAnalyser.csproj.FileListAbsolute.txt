@@ -1,0 +1,17 @@
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\bin\Debug\netcoreapp3.1\IndianStateConsusAnalyser.exe
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\bin\Debug\netcoreapp3.1\IndianStateConsusAnalyser.deps.json
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\bin\Debug\netcoreapp3.1\IndianStateConsusAnalyser.runtimeconfig.json
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\bin\Debug\netcoreapp3.1\IndianStateConsusAnalyser.runtimeconfig.dev.json
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\bin\Debug\netcoreapp3.1\IndianStateConsusAnalyser.dll
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\bin\Debug\netcoreapp3.1\IndianStateConsusAnalyser.pdb
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\obj\Debug\netcoreapp3.1\IndianStateConsusAnalyser.csprojAssemblyReference.cache
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\obj\Debug\netcoreapp3.1\IndianStateConsusAnalyser.AssemblyInfoInputs.cache
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\obj\Debug\netcoreapp3.1\IndianStateConsusAnalyser.AssemblyInfo.cs
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\obj\Debug\netcoreapp3.1\IndianStateConsusAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\obj\Debug\netcoreapp3.1\IndianStateConsusAnalyser.csproj.CopyComplete
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\obj\Debug\netcoreapp3.1\IndianStateConsusAnalyser.dll
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\obj\Debug\netcoreapp3.1\IndianStateConsusAnalyser.pdb
+C:\Users\venky\source\repos\IndianStateConsusAnalyser\obj\Debug\netcoreapp3.1\IndianStateConsusAnalyser.genruntimeconfig.cache
